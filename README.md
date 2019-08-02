@@ -8,7 +8,7 @@ Create your first Blockchain MVP
    
 # Domain design   
 
-# Step 2: Bockchain Use Cases
+# Step 2: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
 
 # Step 3: Blockchain Architecture schematic
    
