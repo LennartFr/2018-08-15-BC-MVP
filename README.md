@@ -11,10 +11,20 @@ Create your first Blockchain MVP
 
 # Step 3: Blockchain Architecture schematic
    
-   Who writes to the Blockchain?
+   ## Who writes to the Blockchain?
    Who reads from the Blockchain?
    
-   How many ORGS, Peers, etc.
+   ## How many ORGS, Peers, etc.
+   
+# Step 4: 
+
+   ## Add Item
+   ## Search Item
+   
+   
    
  
    
+# Sources:
+
+https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledger-fabric-6bbe633c2204
