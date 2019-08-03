@@ -22,13 +22,20 @@ Create your first Blockchain MVP
    ## Add Item
    ## Search Item
    
-# User Inteerface   
+# User Interface   
    
    ## Add Item
    ## Search Item
    
- 
-   
+  
 # Sources:
 
 https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledger-fabric-6bbe633c2204
+
+
+# IBM Blockchain code patterns
+
+[Build a global finance application on blockchain. Use IBM Blockchain Platform and IBM Kubernetes Service to build a Node.js app for global finance](https://developer.ibm.com/patterns/build-a-global-finance-application-on-blockchain/)
+
+
+
