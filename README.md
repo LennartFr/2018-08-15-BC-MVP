@@ -25,7 +25,7 @@ Create your first Blockchain MVP
    ### Physical-digital with IOT
 
    ## Who writes to the Blockchain?
-   Who reads from the Blockchain?
+   ## Who reads from the Blockchain?
    
    ## How many ORGS, Peers, etc.
    
