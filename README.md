@@ -47,6 +47,10 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 # IBM Blockchain code patterns
 
+[Creating a basic Blockchain network using the IBM Blockchain Platform V2.0 Part 1:](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
+
+[SmartContract Trading using IBM Blockchain Platform Extension for VSCode Part 2:](https://github.com/IBM/SmartContractTrading-wFabric1-4-VSCodeExt)
+
 [Build a global finance application on blockchain. Use IBM Blockchain Platform and IBM Kubernetes Service to build a Node.js app for global finance](https://developer.ibm.com/patterns/build-a-global-finance-application-on-blockchain/)
 
 [Create and execute a blockchain smart contract. Use Hyperledger Fabric and IBM Blockchain Platform Extension for VS Code](https://developer.ibm.com/patterns/create-and-execute-a-blockchain-smart-contract-ibp-v20/)
