@@ -22,7 +22,7 @@ Create your first Blockchain MVP
    ### On-chain, off-chain
    ### Systems integration
    ### Inter-ledgering
-   ###cPhysical-digital with IOT
+   ### Physical-digital with IOT
 
    ## Who writes to the Blockchain?
    Who reads from the Blockchain?
