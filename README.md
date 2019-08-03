@@ -39,5 +39,7 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 [Create and execute a blockchain smart contract. Use Hyperledger Fabric and IBM Blockchain Platform Extension for VS Code](https://developer.ibm.com/patterns/create-and-execute-a-blockchain-smart-contract-ibp-v20/)
 
+[Deploy a blockchain network to regulate food shipments along a supply chain. Use a Hyperledger Fabric network to model food supplier regulatory requirements for a distributed business network](https://developer.ibm.com/patterns/monitor-food-shipments-using-blockchain/)
+
 
 
