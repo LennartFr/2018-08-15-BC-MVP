@@ -45,3 +45,5 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 [Create a fair trade supply chain network](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
 
+[Create a basic blockchain network using the Blockchain Platform](https://developer.ibm.com/patterns/build-a-blockchain-network/)
+
