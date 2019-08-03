@@ -27,6 +27,11 @@ Create your first Blockchain MVP
    ## Who writes to the Blockchain?
    ## Who reads from the Blockchain?
    
+   ## Ordering Service
+   ### Solo
+   ### Kafka
+   ### Raft
+   
    ## How many ORGS, Peers, etc.
    
 # Step 4: Chain Code
