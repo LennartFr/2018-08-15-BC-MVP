@@ -37,5 +37,7 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 [Build a global finance application on blockchain. Use IBM Blockchain Platform and IBM Kubernetes Service to build a Node.js app for global finance](https://developer.ibm.com/patterns/build-a-global-finance-application-on-blockchain/)
 
+[Create and execute a blockchain smart contract. Use Hyperledger Fabric and IBM Blockchain Platform Extension for VS Code](https://developer.ibm.com/patterns/create-and-execute-a-blockchain-smart-contract-ibp-v20/)
+
 
 
