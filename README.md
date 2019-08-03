@@ -43,3 +43,5 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 [Explore the querying capability of Hyperledger Fabric 1.4](https://developer.ibm.com/patterns/using-query-capability-with-blockchain-with-ibp-vscode-extension-for-think/)
 
+[Create a fair trade supply chain network](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
+
