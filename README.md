@@ -47,3 +47,6 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 [Create a basic blockchain network using the Blockchain Platform](https://developer.ibm.com/patterns/build-a-blockchain-network/)
 
+[Raheel:Emit events from Blockchain Platform](https://developer.ibm.com/patterns/implementing-blockchain-events-using-ibp-vscode-extension/)
+
+[Raheel:Create a decentralized energy network with IBM Blockchain Platform](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
