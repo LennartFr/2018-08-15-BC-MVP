@@ -41,5 +41,5 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 
 [Deploy a blockchain network to regulate food shipments along a supply chain. Use a Hyperledger Fabric network to model food supplier regulatory requirements for a distributed business network](https://developer.ibm.com/patterns/monitor-food-shipments-using-blockchain/)
 
-
+[Explore the querying capability of Hyperledger Fabric 1.4](https://developer.ibm.com/patterns/using-query-capability-with-blockchain-with-ibp-vscode-extension-for-think/)
 
