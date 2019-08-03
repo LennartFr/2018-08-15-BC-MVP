@@ -11,7 +11,19 @@ Create your first Blockchain MVP
 # Step 2: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
 
 # Step 3: Blockchain Architecture schematic
-   
+
+   ## Blockchain concepts
+   ### Shared Ledger & smart contracts
+   ### Public, private
+   ### Permissioned, permission-less
+   ### Tokens and incentive mechanisms
+   ### Identity and Zero Knowledge
+   ### Consensus mechanisms
+   ### On-chain, off-chain
+   ### Systems integration
+   ### Inter-ledgering
+   ###cPhysical-digital with IOT
+
    ## Who writes to the Blockchain?
    Who reads from the Blockchain?
    
