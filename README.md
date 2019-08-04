@@ -13,17 +13,7 @@ Create your first Blockchain MVP
 # Step 3: Blockchain Architecture schematic
 
    ## Blockchain concepts
-   ### Shared Ledger & smart contracts
-   ### Public, private
-   ### Permissioned, permission-less
-   ### Tokens and incentive mechanisms
-   ### Identity and Zero Knowledge
-   ### Consensus mechanisms
-   ### On-chain, off-chain
-   ### Systems integration
-   ### Inter-ledgering
-   ### Physical-digital with IOT
-
+   
    ## Who writes to the Blockchain?
    ## Who reads from the Blockchain?
    
@@ -73,3 +63,16 @@ https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledge
 [Raheel:Create a decentralized energy network with IBM Blockchain Platform](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
 
 [Raheel:Create a customer loyalty program with blockchain. Use Hyperledger Fabric V1.4, IBM Blockchain, and Node.js to create the web app and network](https://developer.ibm.com/patterns/customer-loyalty-program-with-iks-saas-v2-fabric/)
+
+# Appendix
+
+   ### Shared Ledger & smart contracts
+   ### Public, private
+   ### Permissioned, permission-less
+   ### Tokens and incentive mechanisms
+   ### Identity and Zero Knowledge
+   ### Consensus mechanisms
+   ### On-chain, off-chain
+   ### Systems integration
+   ### Inter-ledgering
+   ### Physical-digital with IOT
