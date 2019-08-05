@@ -18,7 +18,7 @@
 
 # Step 1: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
 
-  ## 1.2: Select Use Case
+  ## 1.1: Select Use Case
   ## 1.2: Existing Data, regulation, systems
 
 # Step 2: Domain knowledge and data
