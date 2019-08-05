@@ -1,6 +1,19 @@
 # 2018-08-15-BC-MVP
-Create your first Blockchain MVP
-   
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Create your first Blockchain MVP
+
+# Event URL: <a href="https://bit.ly/2MyMVxE">https://bit.ly/2MyMVxE</a>
+
+# Contact:
+
+## Linkedin.com/in/lennartfrantzell/
+ 
+[Whitelisting](https://cloud.ibm.com/registration/whitelist) 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Domain design   
 
 # Step 1: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
