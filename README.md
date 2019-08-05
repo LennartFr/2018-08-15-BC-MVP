@@ -3,8 +3,9 @@ Create your first Blockchain MVP
 
 # Step 1: Domain knowledge
 
-   ## Off-chain and On-Chain
    ## Existing Data, regulation, systems
+   ## Off-chain and On-Chain
+   
    
 # Domain design   
 
