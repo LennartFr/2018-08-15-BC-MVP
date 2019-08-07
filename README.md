@@ -23,6 +23,10 @@
 
 # Step 2: Domain knowledge and data
 
+Governance
+who can  join the bc
+channels
+
    ## 2.1: Move selected Off-chain data On-Chain
    
    ## Who writes to the Blockchain?
