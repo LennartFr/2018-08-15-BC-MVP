@@ -4,7 +4,7 @@
 
 # Create your first Blockchain MVP
 
-# Event URL: <a href="https://bit.ly/2MyMVxE">https://bit.ly/2MyMVxE</a>
+# Event URL: <a href="http://ibm.biz/OlgaBlockChain">http://ibm.biz/OlgaBlockChain</a>
 
 # Contact:
 
