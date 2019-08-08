@@ -23,9 +23,17 @@
 
 # Step 2: Domain knowledge and data
 
-Governance
-who can  join the bc
-channels
+## Governance
+
+Who can join the Blockchain
+
+### dev team
+#### 1 Architect
+#### 1 marketer/domain expert
+#### 1 operator
+#### 2 devs
+
+
 
    ## 2.1: Move selected Off-chain data On-Chain
    
