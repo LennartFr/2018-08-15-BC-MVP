@@ -16,8 +16,7 @@
    ## Governance
    ### Who can join our Blockchain?
       
-# Step 2: Domain knowledge and data
-  ## 2.1: Identify existing Data, regulations, existing systems
+# Step 2: Existing, Architecture, domain knowledge and data, regulations, existing systems
   
   ## 2.2: Move selected Off-chain data On-Chain
    
