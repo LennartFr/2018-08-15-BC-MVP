@@ -3,7 +3,7 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Create your first Blockchain MVP
-
+ 
 # Event URL: <a href="http://ibm.biz/OlgaBlockChain">http://ibm.biz/OlgaBlockChain</a>
 
 # Contact:  Linkedin.com/in/lennartfrantzell/
@@ -12,49 +12,35 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Domain design   
-
-# Step 1: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
-
-  ## 1.1: Select Use Case
-  ## 1.2: Existing Data, regulation, systems
-
+# Step 1: Start with Blockchain Use Cases: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
+   ## Governance
+   ### Who can join our Blockchain?
+      
 # Step 2: Domain knowledge and data
-
-## Governance
-
-Who can join the Blockchain
-
-### dev team
-#### 1 Architect
-#### 1 marketer/domain expert
-#### 1 operator
-#### 2 devs
-
-
-
-   ## 2.1: Move selected Off-chain data On-Chain
+  ## 2.1: Identify existing Data, regulations, existing systems
+  
+  ## 2.2: Move selected Off-chain data On-Chain
    
-   ## Who writes to the Blockchain?
-   ## Who reads from the Blockchain?
-   
-   ## Ordering Service
+  ## Who writes to the Blockchain?
+  ## Who reads from the Blockchain?
+  ## Smart Contracts
+  
+ ## Step 3: dev team
+  ### 1 Architect
+  ### 1 marketer/domain expert
+  ### 1 operator
+  ### 2 devs
+
+### Step 4: Blockchain Architecture
+
+   ### Ordering Service
    ### Solo
    ### Kafka
    ### Raft
    
    ## How many ORGS, Peers, etc.
    
-# Step 4: Chain Code
 
-   ## Add Item
-   ## Search Item
-   
-# User Interface   
-   
-   ## Add Item
-   ## Search Item
-   
   
 # Sources:
 
