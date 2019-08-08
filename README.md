@@ -6,9 +6,7 @@
 
 # Event URL: <a href="http://ibm.biz/OlgaBlockChain">http://ibm.biz/OlgaBlockChain</a>
 
-# Contact:
-
-## Linkedin.com/in/lennartfrantzell/
+# Contact:  Linkedin.com/in/lennartfrantzell/
  
 [Whitelisting](https://cloud.ibm.com/registration/whitelist) 
 
