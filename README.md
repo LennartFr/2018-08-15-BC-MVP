@@ -13,20 +13,16 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
-   ## Governance
-   ### Who can join our Blockchain?
       
-# Step 2: Existing, Architecture, domain knowledge and data, regulations, existing systems
+# Step 2: Existing architecture, domain knowledge and data, regulations, existing systems
   
   ## 2.2: Move selected Off-chain data On-Chain
-   
-  ## Who writes to the Blockchain?
-  ## Who reads from the Blockchain?
-  ## Smart Contracts
   
- ## Step 3: dev team
+# Step 3: Smart Contracts
+  
+# Step 4: dev team
   ### 1 Architect
-  ### 1 marketer/domain expert
+  ### 1 domain expert, marketing expert
   ### 1 operator
   ### 2 devs
 
@@ -38,8 +34,7 @@
    ### Raft
    
    ## How many ORGS, Peers, etc.
-   
-
+  
   
 # Sources:
 
