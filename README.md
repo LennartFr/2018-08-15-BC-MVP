@@ -14,7 +14,7 @@
 
 # Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
       
-# Step 2: Existing architecture, domain knowledge and data, regulations, existing systems
+# Step 2: Existing architecture, systems, domain knowledge and data, regulations
   
   ## 2.2: Move selected Off-chain data On-Chain
   
