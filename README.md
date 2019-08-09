@@ -26,7 +26,7 @@
   ### 1 operator
   ### 2 devs
 
-### Step 4: Blockchain Architecture
+### Step 5: Blockchain Architecture
 
    ### Ordering Service
    ### Solo
@@ -41,7 +41,7 @@
 https://medium.com/coinmonks/build-a-blockchain-poc-application-using-hyperledger-fabric-6bbe633c2204
 
 
-# IBM Blockchain code patterns
+## IBM Blockchain code patterns
 
 [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0 Part 1:](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
