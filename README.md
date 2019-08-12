@@ -28,12 +28,8 @@
 
 ### Step 5: Blockchain Architecture
 
-   ### Ordering Service
-   ### Solo
-   ### Kafka
-   ### Raft
-   
-   ## How many ORGS, Peers, etc.
+   ### Orderer (Solo, Kafka Raft, SBFT)
+   ### MSP, Peers, Channel, World State, Ledger
   
   
 # Sources:
