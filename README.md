@@ -12,7 +12,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Bockchain Use Cases</a>
+# Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
       
 # Step 2: Existing architecture, systems, domain knowledge and data, regulations
   
